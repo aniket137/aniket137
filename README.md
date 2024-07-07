@@ -3,7 +3,7 @@
 )
 
 <h1 align="center">Hi 👋, I'm ANIKET SAKHARE</h1>
-<h3 align="center">Future Engineer | Software Development Enthusiast | Building Websites & Machine Learning Projects</h3>
+<h3 align="center"> Engineer | Software Development Enthusiast | Building Websites & Machine Learning Projects</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 - 🔭 I’m currently working on [CROP YIELD PREDICTION USING ML](https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset)
